@@ -9,13 +9,10 @@ TanZhou Python 学习笔记
 记录在潭州Python的笔记
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
-
-
+    :maxdepth: 2
+    :glob:  
 
     base/index
     advanced/index
     web/index
     frame/index
-
